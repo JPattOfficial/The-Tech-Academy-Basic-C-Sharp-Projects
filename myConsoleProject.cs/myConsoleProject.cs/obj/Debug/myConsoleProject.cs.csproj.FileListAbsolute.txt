@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
