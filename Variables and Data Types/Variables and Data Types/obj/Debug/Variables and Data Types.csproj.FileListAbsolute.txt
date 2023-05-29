@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\bin\Debug\Variables and Data Types.exe.config
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\bin\Debug\Variables and Data Types.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\bin\Debug\Variables and Data Types.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.pdb
