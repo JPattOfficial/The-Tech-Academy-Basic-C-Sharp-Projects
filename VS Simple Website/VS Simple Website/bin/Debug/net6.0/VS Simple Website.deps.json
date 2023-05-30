@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VS Simple Website/1.0.0": {
+        "runtime": {
+          "VS Simple Website.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VS Simple Website/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

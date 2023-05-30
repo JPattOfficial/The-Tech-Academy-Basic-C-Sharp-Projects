@@ -1,0 +1,31 @@
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\appsettings.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\VS Simple Website.staticwebassets.runtime.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\VS Simple Website.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\VS Simple Website.deps.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\VS Simple Website.runtimeconfig.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\VS Simple Website.dll
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\bin\Debug\net6.0\VS Simple Website.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.AssemblyInfo.cs
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.RazorAssemblyInfo.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.RazorAssemblyInfo.cs
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\staticwebassets\msbuild.VS Simple Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\staticwebassets\msbuild.build.VS Simple Website.props
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VS Simple Website.props
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VS Simple Website.props
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\scopedcss\bundle\VS Simple Website.styles.css
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\scopedcss\projectbundle\VS Simple Website.bundle.scp.css
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.dll
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\refint\VS Simple Website.dll
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\VS Simple Website.genruntimeconfig.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\VS Simple Website\VS Simple Website\obj\Debug\net6.0\ref\VS Simple Website.dll
