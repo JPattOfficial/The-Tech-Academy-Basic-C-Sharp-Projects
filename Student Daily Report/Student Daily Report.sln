@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {D0BBE1E1-4265-439E-9E1A-C886DAA5C910}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Daily Report", "Student Daily Report\Student Daily Report.csproj", "{657542EC-D12C-42D6-8DDF-3EA321385A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657542EC-D12C-42D6-8DDF-3EA321385A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657542EC-D12C-42D6-8DDF-3EA321385A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657542EC-D12C-42D6-8DDF-3EA321385A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657542EC-D12C-42D6-8DDF-3EA321385A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0BBE1E1-4265-439E-9E1A-C886DAA5C910}
+	EndGlobalSection
+EndGlobal
+>>>>>>> fad6febf7e3bc4273d1eb0169d599e97f79bf854

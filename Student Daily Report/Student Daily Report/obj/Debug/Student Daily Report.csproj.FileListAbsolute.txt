@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe.config
 C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe
 C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.pdb
@@ -6,3 +7,13 @@ C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student 
 C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.exe
 C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.pdb
+=======
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe.config
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.pdb
+>>>>>>> fad6febf7e3bc4273d1eb0169d599e97f79bf854
