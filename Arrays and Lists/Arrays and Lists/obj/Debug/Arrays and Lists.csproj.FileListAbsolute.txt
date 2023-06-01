@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe.config
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.pdb
