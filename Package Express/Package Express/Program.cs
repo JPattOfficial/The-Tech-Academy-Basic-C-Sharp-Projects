@@ -46,6 +46,7 @@ class Program
         {
             Console.WriteLine("Package too big to be shipped via Package Express.");
             Console.ReadLine();
+            return;
         }
 
         Console.ReadLine();
@@ -56,7 +57,6 @@ class Program
         // Print quote
         Console.WriteLine($"Your estimated total for shipping this package is: ${quote:F2}");
         Console.WriteLine("Thank you!");
-
         Console.ReadLine();
     }
 }
