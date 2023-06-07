@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\bin\Debug\Console App, 6 Part.exe.config
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\bin\Debug\Console App, 6 Part.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\bin\Debug\Console App, 6 Part.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\obj\Debug\Console App, 6 Part.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\obj\Debug\Console App, 6 Part.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\obj\Debug\Console App, 6 Part.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\obj\Debug\Console App, 6 Part.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App, 6 Part\Console App, 6 Part\obj\Debug\Console App, 6 Part.pdb
