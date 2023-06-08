@@ -11,11 +11,33 @@ internal class Program
         string input = Console.ReadLine();
         int divider = Int32.Parse(input);
 
-        foreach (int num in intsList)
+        try
         {
-            Console.WriteLine(num + " divided by " + divider + " is " + num / divider);
+            foreach (int num in intsList)
+            {
+                Console.WriteLine(num + " divided by " + divider + " is " + num / divider);
+            }
+            Console.ReadLine();
         }
-        Console.ReadLine();
+        }
+        catch (FormatException ex)
+        {
+            Console.WriteLine("Please type a whole number.");
+            return;
+        }
+        catch (DivideByZeroException ex)
+        {
+            Console.WriteLine("Please don't divide by zero. ")
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        finally
+        {
+            Console.ReadLine();
 
+        }
+        }
     }
 }
