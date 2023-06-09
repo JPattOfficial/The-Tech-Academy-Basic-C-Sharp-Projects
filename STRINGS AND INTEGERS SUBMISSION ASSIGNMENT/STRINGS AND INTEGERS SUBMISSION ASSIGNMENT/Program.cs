@@ -7,18 +7,16 @@ internal class Program
     {
         List<int> intsList = new List<int> { 2, 4, 6, 8 };
 
-        Console.WriteLine("Enter a number to divide the numbers 2, 4, 6, and 8 by: ");
-        string input = Console.ReadLine();
-        int divider = Int32.Parse(input);
-
         try
         {
+            Console.WriteLine("Enter a number to divide the numbers 2, 4, 6, and 8 by: ");
+            string input = Console.ReadLine();
+            int divider = Int32.Parse(input);
+
             foreach (int num in intsList)
             {
                 Console.WriteLine(num + " divided by " + divider + " is " + num / divider);
             }
-            Console.ReadLine();
-        }
         }
         catch (FormatException ex)
         {
@@ -27,7 +25,7 @@ internal class Program
         }
         catch (DivideByZeroException ex)
         {
-            Console.WriteLine("Please don't divide by zero. ")
+            Console.WriteLine("Please don't divide by zero.");
         }
         catch (Exception ex)
         {
@@ -36,8 +34,6 @@ internal class Program
         finally
         {
             Console.ReadLine();
-
-        }
         }
     }
 }
