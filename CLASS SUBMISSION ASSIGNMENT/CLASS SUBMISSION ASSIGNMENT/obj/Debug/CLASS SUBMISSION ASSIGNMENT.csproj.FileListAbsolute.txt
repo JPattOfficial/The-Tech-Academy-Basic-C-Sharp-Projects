@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\CLASS SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\CLASS SUBMISSION ASSIGNMENT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\CLASS SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\CLASS SUBMISSION ASSIGNMENT.exe.config
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\CLASS SUBMISSION ASSIGNMENT.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\bin\Debug\CLASS SUBMISSION ASSIGNMENT.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\CLASS SUBMISSION ASSIGNMENT.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\CLASS SUBMISSION ASSIGNMENT.pdb
