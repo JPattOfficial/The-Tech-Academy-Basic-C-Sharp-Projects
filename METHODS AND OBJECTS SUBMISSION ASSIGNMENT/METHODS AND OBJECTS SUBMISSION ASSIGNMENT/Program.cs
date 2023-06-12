@@ -13,7 +13,7 @@ namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT
             //Call and create new instance of the Employee method
             Employee sampleEmployee = new Employee();
             sampleEmployee.SayName();
-            //Specifying variables of this inhereted object
+            //Specifying variables of this inherited object
             sampleEmployee.firstName = "Sample";
             sampleEmployee.lastName = "Student";
 

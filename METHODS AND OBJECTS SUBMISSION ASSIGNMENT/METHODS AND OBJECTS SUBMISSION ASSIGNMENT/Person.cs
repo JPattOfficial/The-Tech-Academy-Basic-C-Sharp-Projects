@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT
 {
-    public class Person
+    public abstract class Person
     {
         public string firstName = "John";
         public string lastName = "Smith";
 
-        public void SayName()
+        public virtual void SayName()
         {
-            Console.WriteLine("Name: " + firstName + lastName);
+            Console.WriteLine($"Name: {firstName} {lastName}");
         }
     }
 }
