@@ -24,6 +24,18 @@ namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT
             IQuittable employee = new Employee();
             employee.Quit();
 
+            Employee employee1 = new Employee { Id = 1, FirstName = "John", LastName = "Doe" };
+            Employee employee2 = new Employee { Id = 2, FirstName = "Jane", LastName = "Doe" };
+
+            if (employee1 == employee2)
+            {
+                Console.WriteLine("The employees are the same.");
+            }
+            else
+            {
+                Console.WriteLine("The employees are not the same.");
+            }
+
             Console.ReadLine();
         }
     }
