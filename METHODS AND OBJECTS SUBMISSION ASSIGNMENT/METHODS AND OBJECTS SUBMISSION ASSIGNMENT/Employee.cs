@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public List<T> Things { get; set; }
 
         public static bool operator ==(Employee emp1, Employee emp2)
         {
