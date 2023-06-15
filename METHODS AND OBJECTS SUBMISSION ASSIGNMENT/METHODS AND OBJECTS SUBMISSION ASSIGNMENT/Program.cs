@@ -11,17 +11,11 @@ namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT
         static void Main(string[] args)
         {
             //Call and create new instance of the Employee method
-            Employee sampleEmployee = new Employee();
-            sampleEmployee.SayName();
-
-            //Specifying variables of this inherited object
-            sampleEmployee.firstName = "Sample";
-            sampleEmployee.lastName = "Student";
-
+            Employee sampleEmployee = new Employee() { FirstName = "Sample", LastName = "Student" };
             sampleEmployee.SayName();
             Console.ReadLine();
 
-            IQuittable employee = new Employee();
+            IQuittable employee = new Employee() { FirstName = "Sample", LastName = "Student" };
             employee.Quit();
 
             Employee employee1 = new Employee { Id = 1, FirstName = "John", LastName = "Doe" };
@@ -37,26 +31,24 @@ namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT
             }
             Console.ReadLine();
 
-
-
-            Employee<string> employee1 = new Employee<string>
+            Employee<string> genericEmployee1 = new Employee<string>
             {
                 Things = new List<string> { "C#", "HTML", "CSS", "JavaScript" }
             };
 
-            Employee<int> employee2 = new Employee<int>
+            Employee<int> genericEmployee2 = new Employee<int>
             {
                 Things = new List<int> { 1, 2, 3, 4, 5 }
             };
 
             // Print all of the strings in the Things property of employee1
-            foreach (string thing in employee1.Things)
+            foreach (string thing in genericEmployee1.Things)
             {
                 Console.WriteLine(thing);
             }
 
             // Print all of the integers in the Things property of employee2
-            foreach (int thing in employee2.Things)
+            foreach (int thing in genericEmployee2.Things)
             {
                 Console.WriteLine(thing);
             }
@@ -78,11 +70,11 @@ namespace METHODS_AND_OBJECTS_SUBMISSION_ASSIGNMENT
 
             // Using foreach loop
             List<Employee> joes = new List<Employee>();
-            foreach (var employee in employees)
+            foreach (var emp in employees)
             {
-                if (employee.FirstName == "Joe")
+                if (emp.FirstName == "Joe")
                 {
-                    joes.Add(employee);
+                    joes.Add(emp);
                 }
             }
 
