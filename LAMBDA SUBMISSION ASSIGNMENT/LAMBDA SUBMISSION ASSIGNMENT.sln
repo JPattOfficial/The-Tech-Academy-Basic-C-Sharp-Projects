@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAMBDA SUBMISSION ASSIGNMENT", "LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT.csproj", "{59F5F137-77EB-4B78-B5E2-2A85B974F062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F5F137-77EB-4B78-B5E2-2A85B974F062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F5F137-77EB-4B78-B5E2-2A85B974F062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F5F137-77EB-4B78-B5E2-2A85B974F062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F5F137-77EB-4B78-B5E2-2A85B974F062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D54D28-B0AD-4393-B31D-DB7AA0359DFC}
+	EndGlobalSection
+EndGlobal

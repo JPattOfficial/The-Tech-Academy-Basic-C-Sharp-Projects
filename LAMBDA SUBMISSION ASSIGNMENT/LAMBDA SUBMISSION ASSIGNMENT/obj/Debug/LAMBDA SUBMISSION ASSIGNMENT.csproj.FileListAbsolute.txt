@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\LAMBDA SUBMISSION ASSIGNMENT.exe.config
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\LAMBDA SUBMISSION ASSIGNMENT.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\bin\Debug\LAMBDA SUBMISSION ASSIGNMENT.pdb
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.exe
+C:\Users\Owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LAMBDA SUBMISSION ASSIGNMENT\LAMBDA SUBMISSION ASSIGNMENT\obj\Debug\LAMBDA SUBMISSION ASSIGNMENT.pdb
